@@ -1,0 +1,19 @@
+﻿  Ex23.cpp
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\University.h(33,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(7,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(7,35): warning C4309: 'argument': truncation of constant value
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(8,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(8,35): warning C4309: 'argument': truncation of constant value
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(9,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(9,35): warning C4309: 'argument': truncation of constant value
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(10,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(10,35): warning C4309: 'argument': truncation of constant value
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(11,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(11,35): warning C4309: 'argument': truncation of constant value
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(13,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(13,35): warning C4309: 'argument': truncation of constant value
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(14,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(14,35): warning C4309: 'argument': truncation of constant value
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(15,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\user\source\repos\OopEx23STL\OopEx23STL\Ex23.cpp(15,35): warning C4309: 'argument': truncation of constant value
+  OopEx23STL.vcxproj -> C:\Users\user\source\repos\OopEx23STL\Debug\OopEx23STL.exe
